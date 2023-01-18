@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1956663e.css","mappings":"AAAA,EAGC,qBAAsB,CACtB,4BAAgC,CAE/B,WAAY,CALb,QAAS,CACT,SAAU,CAGT,UAEF","sources":["index.css"],"sourcesContent":["* {\n\tmargin: 0;\n\tpadding: 0;\n\tbox-sizing: border-box;\n\tfont-family: 'Heebo', sans-serif;\n  width: auto;\n  height: auto;\n}\n"],"names":[],"sourceRoot":""}
